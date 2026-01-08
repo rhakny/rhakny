@@ -39,7 +39,7 @@ Transformo ideias em produtos digitais de alta performance utilizando Inteligên
 ---
 
 ### 📫 Contacto
-- **E-mail:** [Rhaknyaraujo@gmail.com](mailto:peixotorhakny@gmail.com)
+- **E-mail:** [peixotorhakny@gmail.com](mailto:peixotorhakny@gmail.com)
 
 ---
 *“A tecnologia deve servir ao negócio, e não o contrário.”*
